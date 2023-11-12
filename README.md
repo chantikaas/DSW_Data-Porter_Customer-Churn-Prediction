@@ -1,4 +1,4 @@
-# DSW_Data-Porter_Customer-Churn-Prediction
+# :rocket: Data Challenge Project - Data Science Week - Customer Churn Prediction :rocket:
 Welcome to the official GitHub repository of the Data Challenge project, presented as part of the Data Science Week event organized by Data Science Indo and Telkom Indonesia. This project is proudly developed by Team Data Porter.
 
 ## Project Overview:
